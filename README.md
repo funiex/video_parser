@@ -12,14 +12,14 @@ For instance, if a 2 minute clip of a music video was uploaded, the application 
 
 4. The backend is written in **Django**. **Celery** for background tasks.
 
-"Use this sample video file for running ccextractor”: https://drive.google.com/file/d/1gLi5ho33TIRNVZkSE-gD4S24zs6Xy1ci/view?usp=sharing
+
 
 ## How to start
 
-### Demo video [![Watch the video](https://ecowiser-internship.s3.ap-south-1.amazonaws.com/vector-video-player-941434_1920.png)](https://ecowiser-internship.s3.ap-south-1.amazonaws.com/ecowiser_task.mp4)
 
-- Clone the repo with `git clone https://github.com/aghosh0605/video-subtitle-process.git`
-- cd into the folder `cd video-subtitle-process`
+
+- Clone the repo with `https://github.com/funiex/video_parser`
+- cd into the folder `cd video-sub`
 - Install the python dependencies `pip install -r requirements.txt` or `python3 -m pip install -r requirements.txt`
 - cd into the Django project root directory `cd video_sub_parser`
 - Run the below commands
